@@ -1,1 +1,5 @@
-# Admin_user_log_in.rb
+Admin declares user's statuses
+
+Admin resend user confirmation email
+
+Admin unlock user account
